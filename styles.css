@@ -81,6 +81,8 @@ h4 {
 .activities-rows {
     display: flex;
     padding: 0 35px 40px 35px;
+    align-items: center;
+    justify-content: center;
 }
 
 .activity-img {
